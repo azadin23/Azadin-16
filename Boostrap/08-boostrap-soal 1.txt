@@ -1,0 +1,11 @@
+Apa itu CSS Framework?
+Apakah bootstrap satu-satunya CSS Framework yang dapat kita gunakan?
+Sebutkan beberapa CSS Framework selain Bootstrap
+Bagaimana tata cara penggunaan Bootstrap?
+
+jawab
+
+1. CSS framework adalah kerangka kerja yang memudahkan pengembang untuk mendesain website, dengan cara menyediakan kumpulan code siap pakai
+2. Tidak, masih banyak CSS framework yang lain yang dapat digunakan.
+3. Foundation, Bulma, Semantic UI, UIkit, Materialize CSS, Miligram, PureCSS, Skeleton dan Tailwind
+4. Bootstrap dapat dipanggil dengan menambahkan atribut di tag HTML kita. 
