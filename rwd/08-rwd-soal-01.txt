@@ -1,0 +1,5 @@
+Responsive web design adalah sebuah metode untuk membuat sebuah layout bagi web designer yang dapat menyesuaikan diri sesuai dengan ukuran layar pengguna.
+%, em, rem, ch, vh, vw, vmin, vmax, ex
+Breakpoint  adalah perubahan yang terjadi pada tampilan saat berganti device atau ukuran width. Cara membuatnya ialah dengan memberi batasan min-width dan max-width.
+flecbox
+grid
