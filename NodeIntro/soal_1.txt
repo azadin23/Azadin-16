@@ -1,0 +1,4 @@
+1. Perbedaan Node Js dengan Javascript adalah, Node Js adalah sebuah Runtime Environment yang menjalankan bahasa Pemrograman Java script, sedangkan Javascript adalah bahasa Pemrograman.
+2. Node Js memiliki Architectur Single Thread yang berarti hanya memiliki satu tumpukan yang digunakan untuk menjalankan program
+3. Built-in module adalah module yang sudah ada di dalam node itu sendiri, external module adalah module yang di install melalui npm, sedangkan custom module adalah module yang dibuat sendiri oleh pengguna dengan fungsi yang diinginkan pembuat.
+4. console module, boxen, dan custom module yang mempunyai nilai berbagai warna dengan tipe data array
