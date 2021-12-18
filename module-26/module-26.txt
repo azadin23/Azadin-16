@@ -1,0 +1,57 @@
+1. Skiljek : one to one
+    {
+        "_id":"12345",
+       "fname": "Tom Hardy",
+       "email" : "oneSlapMan@gmail.com",
+       "phone" : "088222122"
+    }
+
+
+2. Skilshop : one to many
+{
+        "_id":"12345",
+       "fname": "Tom Hardy",
+       "phone" : "088222122",
+       "address" : ["tapanuli Tengah", "Tapanuli Selatan"]
+}
+
+
+
+3. Products : one to many
+{
+    "_id":"33",
+    produk :{
+        "name": "Kaos Polos",
+        "brand": "skilShirt"
+    },
+    variants: [
+        {
+            "name":"Tas Sandang Blue",
+            "color": "blue",
+            "quantity" : 12,
+            "price": 99000,
+
+        },
+        {
+            "name":"Tas sandang kuning",
+            "color": "kuning",
+            "quantity" : 10,
+            "price": 99000,
+
+        }
+    ]
+}
+
+4. Cinemas : many to many
+{
+    firstCinema : {
+        "name": "CGF",
+        "films" :["Internals", "Green Bokk"],
+        "location" : "Pondok Indah"
+    },
+    secondCinema : {
+        "name": "Cinema31",
+        "films" : ["Internals", "Green Bokk"],
+        "location" : "Milenium Medan"
+    }
+}

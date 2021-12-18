@@ -1,0 +1,5 @@
+https://azadin.herokuapp.com/
+
+https://azadin.herokuapp.com/user
+
+https://azadin.herokuapp.com/logout

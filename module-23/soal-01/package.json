@@ -1,0 +1,17 @@
+{
+  "name": "module-23",
+  "version": "1.0.0",
+  "description": "Buatlah proses authentication menggunakan session based (cookie) dan token based (JWT).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2"
+  }
+}

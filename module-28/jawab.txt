@@ -1,0 +1,9 @@
+1. Container adalah sebuah Proses yang terisolasi dari semua process dari Host machine
+2. container melakukan virtualisasi pada host OS nya,
+    VM melakukan virtualisasi pada host hardwarenya
+3. Docker File adalah sebuah Bluprint untuk membuat image.
+4. Tempat Upload/Download Docker File
+5. - Buat dua Container dengan folder berbeda, namun masih dalam root folder sama
+    - Buat sebuah file berkestensi .yaml di root
+    -   tulis perintah yang diperlukan di dalamnya
+    - run dengan 'docker-compose <nama-file>.yaml up' di terminal
